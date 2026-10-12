@@ -1,4 +1,4 @@
-# Ni's Family secret recipes
+# Ni's clan secret recipes
 
 Set of recipes as given by my grandma.
 
