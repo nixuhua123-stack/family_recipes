@@ -1,10 +1,8 @@
 # Ni's Family secret recipes
 
 Set of recipes as given by my grandma.
-# Family secret recipes
 
-Set of recipes as given by my grandma.
-
-* pizzas (TODO)
+* pizzas 
+  - [base](./pizzsa/base.md)
 * sauces (TODO)
 * spreads (TODO)
